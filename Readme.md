@@ -244,26 +244,5 @@ We welcome contributions! Please follow these steps:
 
 ---
 
-## 📞 Contact & Support
 
-### Getting Help
-
-- **Issues**: [GitHub Issues](https://github.com/Ayush281204/Pollution-Map-of-Indian-Cities)
-- **Documentation**: [Project Wiki](https://github.com/Ayush281204/Pollution-Map-of-Indian-Cities)
-- **Email**: support@project.com
-
-### Project Statistics
-
-- **Code Quality**: A+ rated
-- **Documentation**: Comprehensive
-- **Test Coverage**: 95%+
-- **Visualizations**: 5 professional charts
-
----
-
-**© 2025 Indian Cities Pollution Analysis Project**
-
-*Built with ❤️ using Python, Jupyter, and open-source data science libraries*
-
-**⭐ If this project helped you, please give it a star on GitHub!**
 
